@@ -2,6 +2,7 @@ import streamlit as st
 import pickle
 import numpy as np
 import pandas as pd
+import sklearn
 
 # loading the trained model
 classifier = pickle.load(open('loan_approval_model.pkl', 'rb'))
