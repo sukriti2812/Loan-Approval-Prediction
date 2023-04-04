@@ -15,7 +15,7 @@ Several machine learning algorithms were evaluated for their performance in pred
 The best performing model was Random Forest based on its accuracy and interpretability.
 
 ## Model Deployment
-The final model was deployed as a web application using Flask framework. The user can input the necessary details, and the model would predict the likelihood of the loan applicant defaulting.
+The final model was deployed as a web application using Streamlit. The user can input the necessary details, and the model would predict the likelihood of the loan approval.
 
 # Conclusion
-The loan prediction model developed in this project has an accuracy of 80% in predicting loan defaults. The model can be used by banks and financial institutions to assess the creditworthiness of loan applicants and make informed lending decisions.
+The loan prediction model developed in this project has an accuracy of 80% in predicting loan approvals. The model can be used by banks and financial institutions to assess the creditworthiness of loan applicants and make informed lending decisions.
