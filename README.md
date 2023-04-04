@@ -1,4 +1,4 @@
-# Loan-Approval-prediction
+# Loan-Approval-prediction [App](https://sukriti2812-loan-approval-prediction-app-9ulbbe.streamlit.app/)
 
 ## Overview
 This project is aimed at predicting the likelihood of a loan applicant defaulting based on various features such as income, credit history, loan amount, etc. The dataset used for this project is sourced from Kaggle and consists of 614 observations with 13 features.
